@@ -1,0 +1,14 @@
+button{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+h2{
+    margin: 0;
+    padding: 10px;
+}
